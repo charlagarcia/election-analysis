@@ -32,5 +32,7 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
+![pic 1](https://github.com/charlagarcia/election-analysis/blob/main/analysis/Screenshot%20(7).png)
+
 ## Election-Audit Summary
 This script can be modified for use in any election by changing simply changing the import files.  Variables can be changed to correspond to new data, but the premise remains the same.
